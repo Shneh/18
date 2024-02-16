@@ -20,7 +20,7 @@ int main(){
   
   long int res= fact(n);
   
-  printf("THE FACTORIAL OF %d IS: %d.", n, res);
+  printf("THE FACTORIAL OF %d IS: %ld.", n, res);
 
 return 0;
 
